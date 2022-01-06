@@ -3,7 +3,7 @@ Babel==2.7.0
 backports-abc==0.5
 billiard==3.6.1.0
 boto3==1.9.214
-celery==4.3.0
+celery==5.2.2
 certifi==2019.6.16
 chardet==3.0.4
 Django==2.2.24
